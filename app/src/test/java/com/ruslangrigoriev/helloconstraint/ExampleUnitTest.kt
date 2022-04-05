@@ -1,4 +1,4 @@
-package com.ruslangrigoriev.homework21_hellotoast
+package com.ruslangrigoriev.helloconstraint
 
 import org.junit.Test
 
