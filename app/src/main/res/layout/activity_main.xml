@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:backgroundTint="@color/colorPrimary"
-        android:onClick="showToast"
-        android:text="@string/button_label_toast"
+        android:onClick="sayHello"
+        android:text="@string/button_label_say_hello"
         android:textColor="@android:color/white"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/show_count" />

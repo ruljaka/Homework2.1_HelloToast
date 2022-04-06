@@ -18,6 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.ruslangrigoriev.helloconstraint.HelloActivity"
+            android:label="@string/activity2_name"
+            android:parentActivityName="com.ruslangrigoriev.helloconstraint.MainActivity"
+            android:exported="false" />
     </application>
 
 </manifest>
+

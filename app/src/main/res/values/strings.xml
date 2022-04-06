@@ -5,4 +5,7 @@
     <string name="button_label_count">Count</string>
     <string name="button_label_zero">Zero</string>
     <string name="toast_message">Hello Toast!</string>
+    <string name="button_label_say_hello">say hello</string>
+    <string name="activity2_name">Hello Activity</string>
+    <string name="textview_label_hello">Hello!</string>
 </resources>
