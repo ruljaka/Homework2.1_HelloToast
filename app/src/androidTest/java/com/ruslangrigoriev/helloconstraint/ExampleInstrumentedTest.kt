@@ -1,4 +1,4 @@
-package com.ruslangrigoriev.homework21_hellotoast
+package com.ruslangrigoriev.helloconstraint
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.ruslangrigoriev.homework21_hellotoast", appContext.packageName)
+        assertEquals("com.ruslangrigoriev.helloconstraint", appContext.packageName)
     }
 }
